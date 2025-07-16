@@ -35,38 +35,38 @@ This is the **Section One** submission for the Full-Stack Developer Intern assig
 ## 🚀 Getting Started
 
 ### Backend Setup
-cd backend
-npm install
-cp .env.example .env
-node seed/seed.js   # Seed sample job data
-node app.js         # Run server at localhost:5000
+- cd backend
+- npm install
+- cp .env.example .env
+- node seed/seed.js   # Seed sample job data
+- node app.js         # Run server at localhost:5000
 
 ### Frontend Setup
-cd frontend
-npm install
-npm start           # Runs on localhost:3000
+- cd frontend
+- npm install
+- npm start           # Runs on localhost:3000
 
 ### 📂 Folder Structure
-job-board-app/
-├── backend/
-│   ├── routes/
-│   ├── models/
-│   ├── seed/
-│   └── app.js
-├── frontend/
-│   ├── src/
-│   │   ├── pages/
-│   │   └── App.tsx
+- job-board-app/
+- ├── backend/
+- │   ├── routes/
+- │   ├── models/
+- │   ├── seed/
+- │   └── app.js
+- ├── frontend/
+- │   ├── src/
+- │   │   ├── pages/
+- │   │   └── App.tsx
 
 ### 🧪 How to Use
-1. Browse job cards on the homepage
-2. Click on any job to view full details
-3. Submit application via form
-4. View /admin to see submitted applications
+- 1. Browse job cards on the homepage
+- 2. Click on any job to view full details
+- 3. Submit application via form
+- 4. View /admin to see submitted applications
 
 ---
 
 ## 📧 Contact
-Name: Jovan Gomes
-Email: unitbank1990@gmail.com
-       jovan.gomesofficially@gmail.com
+- Name: Jovan Gomes
+- Email: unitbank1990@gmail.com
+-        jovan.gomesofficially@gmail.com
