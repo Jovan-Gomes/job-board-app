@@ -68,5 +68,4 @@ This is the **Section One** submission for the Full-Stack Developer Intern assig
 
 ## 📧 Contact
 - Name: Jovan Gomes
-- Email: unitbank1990@gmail.com
--        jovan.gomesofficially@gmail.com
+- Email: unitbank1990@gmail.com OR jovan.gomesofficially@gmail.com
